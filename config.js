@@ -42,26 +42,26 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['923082990885'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = 'Lucifer' //ur owner name
 
-global.ytname = "YT: AlienAlfa" //ur yt chanel name
+global.ytname = "YT: Luci" //ur yt chanel name
 
-global.socialm = "GitHub: Alien-Alfa" //ur github or insta name
+global.socialm = "GitHub: Rawmver" //ur github or insta name
 
 global.location = "UK, London, hertfordshire" //ur location
 
 
 
 
-global.owner = ['447405935355']
+global.owner = ['923082990885']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '923082990885' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "LUCIFER 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
 
-global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
+global.linkz = 'https://i.imgur.com/PJ3Nh6U.jpg' //your theme url which will be displayed on whatsapp
 
 global.websitex = 'https://www.GITHUB.com/alien-alfa' //ur website to be displayed
 
@@ -91,7 +91,7 @@ global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw
 
 
 
-global.premium = global.premiumzz || ['447405935355'] //ur premium numbers
+global.premium = global.premiumzz || ['923082990885'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
